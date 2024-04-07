@@ -1,4 +1,5 @@
-a = 6
-b = 9
-soma = (a + b)
-console.log(soma)
+let numerol=Number (prompt ("Digite o primeiro número: "))
+let numero2=Number (prompt ("Digite o segundo núnero: "))
+
+numerol+=numero2
+window. alert ("Seu resultado é "+numerol)
